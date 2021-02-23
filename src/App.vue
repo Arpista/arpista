@@ -5,7 +5,7 @@
     </div>
     <Navbar />
     <router-view class="px-8 py-2"></router-view>
-    <div id="footer" class="px-8 py-2 text-gray-100">
+    <div id="footer" class="px-8 py-2 text-gray-300">
       © 2013–2021 Arpista Editing
     </div>
   </div>

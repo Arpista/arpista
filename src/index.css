@@ -25,3 +25,16 @@ p {
 html {
   background-color: #00127a;
 }
+
+a {
+  @apply transition;
+  @apply duration-300;
+  @apply ease-in-out;
+  color: #0042dd;
+  @apply hover:text-gray-900;
+}
+
+a.invert {
+  @apply text-gray-300
+  @apply hover:text-gray-50;
+}
