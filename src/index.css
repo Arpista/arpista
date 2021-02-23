@@ -4,7 +4,13 @@ h1 {
   @apply text-4xl;
   @apply pt-4;
   @apply pb-6;
-  /* font-family: 'Alice'; */
+  font-weight: bold;
+}
+
+h2 {
+  @apply text-2xl;
+  @apply pt-2;
+  @apply pb-4;
   font-weight: bold;
 }
 

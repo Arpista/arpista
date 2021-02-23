@@ -10,9 +10,9 @@
 const links = {
   Home: '/',
   'Contact Me': '/contact',
-  Qualifications: '',
-  Services: '',
-  'Useful Links': '',
+  Qualifications: '/qualifications',
+  Services: '/services',
+  'Useful Links': '/links',
 }
 </script>
 

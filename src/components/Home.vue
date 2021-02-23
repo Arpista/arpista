@@ -11,8 +11,8 @@
     <p>
       If so, I may be able to help. If you’d like to see what I have to offer,
       the first five pages are free! For a more detailed breakdown of what I can
-      do, please see Services. And feel free to email me with any questions you
-      may have!
+      do, please see <router-link to="/services">Services</router-link>. And
+      feel free to email me with any questions you may have!
     </p>
   </div>
 </template>
