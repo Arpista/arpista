@@ -4,24 +4,17 @@ h1 {
   @apply text-4xl;
   @apply pt-4;
   @apply pb-6;
-  font-family: 'Alice';
+  /* font-family: 'Alice'; */
   font-weight: bold;
+}
+
+div {
+  font-family: 'Alice';
 }
 
 p {
   @apply pb-4;
-}
-
-/* h1 {
-  color: red;
-} */
-
-.center-column {
-  max-width: 800px;
-  margin: 0 auto;
-  @apply mt-4;
-  @apply bg-gray-100;
-  @apply shadow-lg;
+  font-family: 'Alice';
 }
 
 .content-page {

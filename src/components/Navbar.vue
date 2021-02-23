@@ -1,6 +1,6 @@
 <template>
-  <div id="navbar" class="flex flex-row px-8 space-x-6 py-2">
-    <div class="text-gray-100" v-for="(link, title) in links">
+  <div id="navbar" class="flex flex-row text-gray-100 px-8 space-x-6 py-2">
+    <div v-for="(link, title) in links">
       <router-link :to="link">{{ title }}</router-link>
     </div>
   </div>
