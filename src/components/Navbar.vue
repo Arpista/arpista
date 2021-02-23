@@ -1,8 +1,16 @@
 <template>
-  <div id="navbar" class="flex flex-row text-gray-100 px-8 space-x-6 py-2">
-    <div v-for="(link, title) in links">
-      <router-link class="invert" :to="link">{{ title }}</router-link>
-    </div>
+  <div
+    id="navbar"
+    class="flex flex-row flex-wrap justify-between text-gray-100 px-8 py-2"
+  >
+    <router-link
+      v-for="(link, title) in links"
+      :key="link"
+      class="invert mx-2"
+      :to="link"
+    >
+      {{ title }}
+    </router-link>
   </div>
 </template>
 
