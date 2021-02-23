@@ -6,19 +6,18 @@
       two novels of my father’s (<a
         title="Harald"
         href="http://www.amazon.com/Harald-ebook/dp/B00BEQP2Y8/"
-        >Harald</a
+        ><i>Harald</i></a
       >
       and
       <a
         title="Salamander"
         href="http://www.amazon.com/Salamander-ebook/dp/B004TBD3Z0/"
-        >Salamander;</a
-      >
-      the former is commercially published, the latter self-published) and one
-      commercially published non-fiction book (<a
+        ><i>Salamander</i></a
+      >; the former is commercially published, the latter self-published) and
+      one commercially published non-fiction book (<a
         title="Future Imperfect"
         href="http://www.amazon.com/Future-Imperfect-Technology-Uncertain-ebook/dp/B001GCUCLS/"
-        >Future Imperfect</a
+        ><i>Future Imperfect</i></a
       >), as well as numerous short stories and some essays by various friends,
       none as of yet published. I have been working as a professional editor
       since 2015, with a focus on science fiction and fantasy novels, though I
