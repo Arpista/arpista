@@ -8,8 +8,8 @@
 
 <script setup>
 const links = {
-  Home: '',
-  'Contact Me': '',
+  Home: '/',
+  'Contact Me': '/contact',
   Qualifications: '',
   Services: '',
   'Useful Links': '',
