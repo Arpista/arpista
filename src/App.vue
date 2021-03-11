@@ -1,8 +1,6 @@
 <template>
   <div class="center-column mt-4 mx-auto bg-gray-100">
-    <div class="px-8">
-      <h1>Arpista Editing</h1>
-    </div>
+    <img src="/header.png" />
     <Navbar />
     <router-view class="px-8 py-2"></router-view>
     <div id="footer" class="px-8 py-2 text-gray-300">
