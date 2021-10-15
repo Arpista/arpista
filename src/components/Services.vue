@@ -139,6 +139,6 @@
       Note: Terms and prices may be subject to change over time; however,
       preexisting commissions will not be affected.
     </p>
-    <p>Last updated 1/24/2019</p>
+    <p>Last updated 10/14/2021</p>
   </div>
 </template>
