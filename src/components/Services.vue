@@ -41,11 +41,12 @@
     </p>
     <p>
       I would prefer submissions in electronic format, ideally .odt, .doc or
-      .docx. Please do not send me PDFs. My default is to use the comment
-      function in common software such as OpenOffice to mark specific points
-      that need correction, and to also send you a separate document with
-      overall comments on plot/characters/grammar that are not specific to any
-      one point in the document.
+      .docx. Please do not send me PDFs. Google docs are possible but non-ideal
+      and will slow down timelines. My default is to use the comment function in
+      common software such as OpenOffice to mark specific points that need 
+      correction, and to also send you a separate document with overall comments
+      on plot/characters/grammar that are not specific to any one point in the document.
+      
     </p>
     <h2>Pricing</h2>
     <p>
@@ -69,7 +70,7 @@
     <p>The five categories are defined below:</p>
     <p><strong>Fiction</strong></p>
     <p>
-      Light Editing Required– $2.00/500 words (approximately equivalent to one
+      Light Editing Required– $3.00/500 words (approximately equivalent to one
       page, Times New Roman, 12 point font).
     </p>
     <p>
@@ -79,14 +80,14 @@
       none. I can probably return light work at a rate of 10 pages a day or
       higher, given no concurrent projects.
     </p>
-    <p>Medium Editing Required – $4/500 words.</p>
+    <p>Medium Editing Required – $6/500 words.</p>
     <p>
       Medium means that your manuscript will usually have an average of no more
       than 10-20 comments/page, with occasional exceptions. A given page may go
       as high as 25-30 comments, or as low as 5. I can probably return medium
       work at a rate of 5-8 pages a day or higher, given no concurrent projects.
     </p>
-    <p>Heavy Editing Required – $8/500 words.</p>
+    <p>Heavy Editing Required – $12/500 words.</p>
     <p>
       Heavy means that your manuscript will usually have an average of 20+
       comments/page. Heavy-work manuscripts may be returned at 4-5 pages a day
@@ -105,15 +106,15 @@
     </p>
     <p><strong>Non-Fiction</strong></p>
     <p>
-      Books or Articles – $12/500 words for lighter editing, or $16/500 words
+      Books or Articles – $18/500 words for lighter editing, or $24/500 words
       for heavy editing.
     </p>
     <p>
-      Websites, menus, etc. – $16/500 words + $15 flat cost for the setup. While
+      Websites, menus, etc. – $24/500 words + $25 flat cost for the setup. While
       with most projects I am willing to eat the non per-page costs, that stops
       working on very brief documents, and I end up doing quite a lot of work
-      for sixteen dollars. So all very brief documents in this category will
-      have an extra $15 charge.
+      for twenty-four dollars. So all very brief documents in this category will
+      have an extra $25 charge.
     </p>
     <p><strong>Additional Passes</strong></p>
     <p>
@@ -130,6 +131,19 @@
       of pages, internal divisions such as chapters, or whatever works for you)
       as I complete them. I am prepared to do multiple revisions and to work
       with you on specific problem spots.
+
+      All commissions come with a default support package: if anything is not 
+      clear about the feedback, or you have questions that the feedback didn't
+      answer (eg "did you spot the foreshadowing in scene X? Did development Y 
+      seem to come out of nowhere? Is Character A sympathetic? What was your  
+      impression of what character B was actually up to? Does the introduction  
+      drag?") just send the questions to me, and I'll provide answers. Support is 
+      available for the month following your manuscript's return; please let me  
+      know in advance if you expect to need it after that point. The longer it has
+      been since I have worked on something the harder it is to offer useful 
+      commentary, so while I can make some adjustments if, say, you expect to be 
+      on vacation for two weeks immediately after I get back to you, if you do have
+      follow-up questions you should expect best results from emailing promptly. 
     </p>
     <p>
       I accept payment either via PayPal or via a check mailed to
