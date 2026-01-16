@@ -70,7 +70,7 @@
     <p>The five categories are defined below:</p>
     <p><strong>Fiction</strong></p>
     <p>
-      Light Editing Required– $3.00/500 words (approximately equivalent to one
+      Light Editing Required– $4.00/500 words (approximately equivalent to one
       page, Times New Roman, 12 point font).
     </p>
     <p>
@@ -80,14 +80,14 @@
       none. I can probably return light work at a rate of 10 pages a day or
       higher, given no concurrent projects.
     </p>
-    <p>Medium Editing Required – $6/500 words.</p>
+    <p>Medium Editing Required – $8/500 words.</p>
     <p>
       Medium means that your manuscript will usually have an average of no more
       than 10-20 comments/page, with occasional exceptions. A given page may go
       as high as 25-30 comments, or as low as 5. I can probably return medium
       work at a rate of 5-8 pages a day or higher, given no concurrent projects.
     </p>
-    <p>Heavy Editing Required – $12/500 words.</p>
+    <p>Heavy Editing Required – $16/500 words.</p>
     <p>
       Heavy means that your manuscript will usually have an average of 20+
       comments/page. Heavy-work manuscripts may be returned at 4-5 pages a day
